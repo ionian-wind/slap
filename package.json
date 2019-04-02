@@ -25,13 +25,12 @@
     "blessed": "0.1.81",
     "bluebird": "3.4.1",
     "editor-widget": "git+https://github.com/ionian-wind/editor-widget.git",
-    "lodash": "^4.17.11",
+    "lodash": "4.17.11",
     "mkdirp": "0.5.1",
     "node-clap": "0.0.5",
-    "rc": "^1.2.8",
+    "rc": "1.2.8",
     "slap-util": "git+https://github.com/ionian-wind/slap-util.git",
-    "ttys": "0.0.3",
-    "update-notifier": "1.0.3"
+    "ttys": "0.0.3"
   },
   "devDependencies": {
     "get-random-port": "0.0.1",
